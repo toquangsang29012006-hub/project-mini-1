@@ -928,5 +928,9 @@
     .section-seven .inner-item .inner-desc{
         text-align: center;
     }
+    .button{
+        padding: 16px 26px;
+        margin-right: 0;
+    }
 }
 /* End Media */
