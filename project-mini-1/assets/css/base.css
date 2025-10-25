@@ -36,7 +36,23 @@ a{
 @media (max-width: 992px){
     .container{
         width: 100%;
-        max-width: 786px;
+        max-width: 768px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media (max-width: 786px){
+    .container{
+        width: 100%;
+        max-width: 576px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media (max-width: 576px){
+    .container{
+        width: 100%;
+        max-width: 100%;
         margin-left: auto;
         margin-right: auto;
     }
